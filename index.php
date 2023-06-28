@@ -17,7 +17,7 @@ $pageRenderer->renderPage($_GET['page']);
 
 
 $_SESSION['ERROR'] = [];
-print_r($_SESSION);
+// print_r($_SESSION);
 
 ?>
 
